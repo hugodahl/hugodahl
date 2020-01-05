@@ -8,9 +8,11 @@ Below are some projects in which I have some involvement. That involvement can r
 
 ### Personal
 
+* [HashDocs][HashDocs Site] [(code)][HashDocs Code]: A .Net Core client to access Dash Docsets
 
 ### Community
 
+* [Stream Deck Toolkit][]: A Dotnet Core template to build plugins for the [Elgato Stream Deck](https://elgato.com/gaming) using Dotnet Core
 
 ### Archives and Past
 ** Projects which would have previously fit in one of the above categories, but for which I am no longer actively participating.
@@ -33,3 +35,8 @@ Below are some projects in which I have some involvement. That involvement can r
 [VS Code]: https://code.visualstudio.com
 
 
+<!-- Project sites and repos -->
+
+[HashDocs Site]: https://projects.code-jedi.com/HashDocs/
+[HashDocs Code]: https://github.com/HugoDahl/HashDocs/
+[Stream Deck Toolkit]: https://github.com/hugodahl/StreamdeckToolkit
