@@ -27,7 +27,10 @@ Below are some projects in which I have some involvement. That involvement can r
 
 
 ## Links and Social
-
+* [GitHub](https://github.com/hugodahl)
+* [Twitter](https://twitter.com/hugodahl)
+* [Blog (Technical)](https://code-jedi.com)
+* [Blog (Personal)](https://hugodahl.com)
 
 
 <!-- Link references -->
